@@ -25,8 +25,8 @@ $deviceid2 = "\"$deviceid\"";
 echo "\n";
 echo "\n";
 echo "|## Wilujeng sumping di ALFAGIFT xnxx ACCOUNT GENERATOR!!## \n";
-echo "|  Rebuild by Azizbim23 \n";
-echo "| Wa 082116337636 \n";
+echo "|  Rebuild by Nandara \n";
+echo "| Wa 08122133xxxx \n";
 echo "| SAMPURASUN \n";
 if(file_exists("config.json")){
     $arr2 = json_decode(file_get_contents('config.json'), true);
@@ -93,7 +93,7 @@ if($status_login !== "00"){
 
 
 $url_daftar = "https://api.alfagift.id/v1/account/member/create";
-$random_name = "Aziz"." ".substr(str_shuffle("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 4);
+$random_name = "Nandara"." ".substr(str_shuffle("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 4);
 $random_email = substr(str_shuffle("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 7);
 $random_name = "\"$random_name\"";
 $random_email = "\"$random_email@gmail.com\"";
